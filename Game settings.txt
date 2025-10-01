@@ -1,0 +1,2 @@
+Please put the colour you desire below, the first is gamepiece, the second is background, the third is obstacle 
+yellow cyan pink 
